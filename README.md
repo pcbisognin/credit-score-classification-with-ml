@@ -1,6 +1,3 @@
-# credit-score-classification-with-ml
-Credit score classification using supervised ML (Random Forest, XGBoost, LightGBM) with robust preprocessing, feature engineering, and metric-driven evaluation.
-
 # Credit Score Classification with Machine Learning
 
 End-to-end machine learning project to classify customer credit score into three categories: **Poor**, **Standard**, and **Good**.  
